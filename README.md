@@ -1,1 +1,1 @@
-# evolving-neural-networks
+# Evolving Neural Networks: A small Neuroevolution project
